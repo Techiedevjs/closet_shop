@@ -1,0 +1,12 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="60" height="60" rx="18" fill="#F24040" fill-opacity="0.35"/>
+<rect width="60" height="60" rx="18" fill="url(#paint0_radial_17623_29798)" fill-opacity="0.1"/>
+<rect x="0.5" y="0.5" width="59" height="59" rx="17.5" stroke="#F24040" stroke-opacity="0.65"/>
+<defs>
+<radialGradient id="paint0_radial_17623_29798" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(18.4884 17.4419) rotate(-17.2318) scale(68.2982)">
+<stop stop-color="#F24040"/>
+<stop offset="0.540792" stop-color="#F24040" stop-opacity="0.31"/>
+<stop offset="1" stop-color="#F24040" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
